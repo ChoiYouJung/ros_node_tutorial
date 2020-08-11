@@ -1,0 +1,4 @@
+<launch>
+    <arg name="update_period" default="10" />
+    <param name="timing" value="${arg update_period}">
+</launch>
